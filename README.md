@@ -9,3 +9,6 @@
 | Michael Wayne               | 5027221037 |
 | Rafif Dhimaz Ardhana        | 5027221068 |
 
+## Topologi
+![Topologi](https://github.com/ishal24/FinalProject-KeamanJaringanKomputer-B/blob/main/img/topologi.png)
+[Network Configuration](https://github.com/ishal24/FinalProject-KeamanJaringanKomputer-B/tree/main/netconfig)

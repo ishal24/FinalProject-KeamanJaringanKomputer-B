@@ -13,3 +13,13 @@
 ![Topologi](https://github.com/ishal24/FinalProject-KeamanJaringanKomputer-B/blob/main/img/topologi.png)
 
 [Network Configuration](https://github.com/ishal24/FinalProject-KeamanJaringanKomputer-B/tree/main/netconfig)
+
+[Routing](https://github.com/ishal24/FinalProject-KeamanJaringanKomputer-B/tree/main/script)
+
+ ## 1. Simulasi Jaringan
+
+ ## 2. Analisis Risiko
+
+ ## 3. Implementasi Teknik Keamanan Jaringan
+
+ ## 4. Simulasi Attack dan Defense
